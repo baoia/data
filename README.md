@@ -1,2 +1,3 @@
-# data
-Ce repository contient certains jeux de données du projet.
+# Données
+
+Ce repository contient des jeux de données / métadonnées de certains corpus du projet.
